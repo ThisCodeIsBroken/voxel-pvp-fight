@@ -1,2 +1,2 @@
-# voxel-pvp-fight
-3D Browser-based voxel combat game. 
+# Voxel PVP Fight
+This is a 3D browser-based combat game.
